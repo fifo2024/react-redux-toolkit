@@ -11,8 +11,8 @@
     },
     "dependencies": {
         "@ant-design/icons": "^5.6.1",
-        "@reduxjs/toolkit": "^2.6.1",
-        "antd": "^5.24.5",
+        "@reduxjs/toolkit": "^2.7.0",
+        "antd": "^5.24.8",
         "dayjs": "^1.11.13",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
@@ -20,18 +20,18 @@
         "react-router-dom": "^6.30.0"
     },
     "devDependencies": {
-        "@types/node": "^22.13.13",
+        "@types/node": "^22.15.3",
         "@types/react": "^18.3.20",
-        "@types/react-dom": "^18.3.5",
+        "@types/react-dom": "^18.3.6",
         "@typescript-eslint/eslint-plugin": "^5.62.0",
         "@typescript-eslint/parser": "^5.62.0",
-        "@vitejs/plugin-react-swc": "^3.8.1",
+        "@vitejs/plugin-react-swc": "^3.9.0",
         "eslint": "^8.57.1",
         "eslint-plugin-react-hooks": "^4.6.2",
         "eslint-plugin-react-refresh": "^0.3.5",
-        "sass": "^1.86.0",
-        "typescript": "^5.8.2",
-        "vite": "^5.4.15"
+        "sass": "^1.87.0",
+        "typescript": "^5.8.3",
+        "vite": "^5.4.18"
     },
     "packageManager": "pnpm@9.15.0+sha512.76e2379760a4328ec4415815bcd6628dee727af3779aaa4c914e3944156c4299921a89f976381ee107d41f12cfa4b66681ca9c718f0668fa0831ed4c6d8ba56c"
 }
